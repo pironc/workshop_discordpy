@@ -18,10 +18,7 @@ Be creative so your bot will not look like the other ones, and actually easier t
 
 Having troubles? uhh.. alright. We'll give you a hint :
 
-<details>
-  <summary>Image</summary>
-  ![step1_1](https://github.com/pironc/workshop_discordpy/tree/main/step_1/step1_1.jpg?raw=true "step1_1")
-</details>
+![step1_1](https://github.com/pironc/workshop_discordpy/tree/main/step_1/step1_1.jpg?raw=true "step1_1")
 
 ## Step 1.2 : Set your Application as a BOT
 
