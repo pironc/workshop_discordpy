@@ -18,14 +18,7 @@ Be creative so your bot will not look like the other ones, and actually easier t
 
 Having troubles? uhh.. alright. We'll give you a hint :
 
-<details>
-  <summary>Image</summary>
-  ![step1_1](https://github.com/pironc/workshop_discordpy/tree/main/step_1/step1_1.jpg?raw=true "step1_1")
-  ![my_hunter_menu](https://github.com/pironc/my_hunter/blob/main/screenshots/my_hunter_menu_lowres.png "my_hunter game menu")  
-</details>
-
-![step1_1](https://github.com/pironc/workshop_discordpy/tree/main/step_1/step1_1.jpg?raw=true "step1_1")
-![my_hunter_menu](https://github.com/pironc/my_hunter/blob/main/screenshots/my_hunter_menu_lowres.png "my_hunter game menu")  
+![step1_1](https://github.com/pironc/workshop_discordpy/blob/main/step_1/step1_1.jpg)
 
 ## Step 1.2 : Set your Application as a BOT
 
