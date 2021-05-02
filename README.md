@@ -5,7 +5,7 @@
 For this workshop, you will need to have a few different packages already installed.
 
 **Note : for most of these commands, the "--user" flag might be optional if you run them as root / higher privileges acces (sudo)**  
-**If you have any troubles with the prerequisite, please let us know so we can try to solve it for you to work as soon as possible
+**If you have any troubles with the prerequisite, please let us know so we can try to solve it for you to work as soon as possible**  
 
 **If you are not using Fedora, please install the following libraries / languages using your OS' package manager.**  
 
