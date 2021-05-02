@@ -18,9 +18,9 @@ Don't worry, we'll explain it to you in just a moment
 Our app needs to be secured, so nobody would have access to our token if they happen to find the source code.  
 Take a look at these links, there might be useful informations.
 
-https://realpython.com/how-to-make-a-discord-bot-python/#interacting-with-discord-apis
-https://discordpy.readthedocs.io/en/rewrite/ext/commands/api.html
-https://www.serverlab.ca/tutorials/linux/administration-linux/how-to-set-environment-variables-in-linux/
+https://realpython.com/how-to-make-a-discord-bot-python/#interacting-with-discord-apis  
+https://discordpy.readthedocs.io/en/rewrite/ext/commands/api.html  
+https://www.serverlab.ca/tutorials/linux/administration-linux/how-to-set-environment-variables-in-linux/  
 
 If you need to find your bot's token, go back to https://discord.com/developers/applications,   
 click on your app, then on BOT and finally on **Copy** under the **Token** section.  
