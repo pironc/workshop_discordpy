@@ -36,6 +36,7 @@ It should be pretty obvious on where to go to do so. If you're having troubles, 
 Finally, you will need to invite the bot in our server.  
 It isn't pretty obvious on how to do, these steps aren't really that important but still useful to know they exist,  
 and how to do it if you want to create discord bots in the future.  
+  
 You can look it up yourself or check the image down below :
 
 ![step1_1](https://github.com/pironc/workshop_discordpy/blob/main/step_1/step1_3.jpg)
