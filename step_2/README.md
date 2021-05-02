@@ -24,7 +24,7 @@ https://discordpy.readthedocs.io/en/rewrite/ext/commands/api.html
 If you need to find your bot's token, go back to https://discord.com/developers/applications,   
 click on your app, then on BOT and finally on **Copy** under the **Token** section.  
 
-You should have something like **ODM4MDk1OTE4Mzk2OTk3NjYy.043Mz5_NCh.6bNmi_h1zFaZYI2Hpg44fxc**
+You should have something like ```ODM4MDk1OTE4Mzk2OTk3NjYy.043Mz5_NCh.6bNmi_h1zFaZYI2Hpg44fxc```
 
 Great. Now you have stored your token in an environment variable and you're able to get it from your python program.
 
