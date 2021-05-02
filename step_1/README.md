@@ -23,13 +23,15 @@ Be creative so your bot will not look like the other ones, and actually easier t
 Having troubles? uhh.. alright. We'll give you a hint :
 
 ![step1_1](https://github.com/pironc/workshop_discordpy/blob/main/step_1/step1_1.jpg)
+  
+![step1_1](https://github.com/pironc/workshop_discordpy/blob/main/step_1/step1_2.jpg)
 
 ## Step 1.2 : Set your Application as a BOT
 
 Discord doesn't actually know your application is made to become a BOT.  
 It should be pretty obvious on where to go to do so. If you're having troubles, check the following image
 
-![step1_1](https://github.com/pironc/workshop_discordpy/blob/main/step_1/step1_2.jpg)
+![step1_1](https://github.com/pironc/workshop_discordpy/blob/main/step_1/step1_3.jpg)
 
 ## Step 1.3 : Get an invitation link
 
@@ -39,6 +41,6 @@ and how to do it if you want to create discord bots in the future.
   
 You can look it up yourself or check the image down below :
 
-![step1_1](https://github.com/pironc/workshop_discordpy/blob/main/step_1/step1_3.jpg)
+![step1_1](https://github.com/pironc/workshop_discordpy/blob/main/step_1/step1_4.jpg)
 
 ### **In order not to mess everything up, we will not give you the rights to invite the bot to the server as it also gives extra permissions that could be annoying if not properly used. Please, let us know when you finished this step so we will invite your BOT ourselves and set its role accordingly.**
