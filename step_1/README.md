@@ -20,7 +20,7 @@ Having troubles? uhh.. alright. We'll give you a hint :
 
 <details>
   <summary>Image</summary>
-  ![alt text](https://github.com/pironc/workshop_discordpy/step_1/step1_1.jpg)
+  ![step1_1](https://github.com/pironc/workshop_discordpy/blob/main/step1_1/step1_1.jpg "step1_1")
 </details>
 
 ## Step 1.2 : Set your Application as a BOT
