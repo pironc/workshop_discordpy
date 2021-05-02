@@ -6,19 +6,19 @@ In the next steps, we will see the actual code to make it work.
 
 ## Step 1.1 : Create your Application
 
-In the discord "developer language", it's not actually a bot but an **Application**.  
-You will have to create a new application with a name.
+Your bot isn't really a bot for now. It's called an **Application**
+You will have to create a new application with a name in order to create your bot later on.
 
 Be creative so your bot will not look like the other ones, and actually easier to figure out which is who's.  
-
-
-
-
-..
   
   
-...
-
+  
+  
+..  
+  
+  
+...  
+  
 
 Having troubles? uhh.. alright. We'll give you a hint :
 
