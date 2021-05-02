@@ -12,7 +12,11 @@ You will have to create a new application with a name.
 Be creative so your bot will not look like the other ones, and actually easier to figure out which is who's.  
 
 
-..  
+
+
+..
+  
+  
 ...
 
 
